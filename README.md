@@ -9,12 +9,19 @@ Records: ~19,000+ Sales Transactions
 Source: Sample Business Dataset (Excel)
 ## Business Questions Solved
 What is the total sales revenue generated?
+
 Which mobile brands perform the best?
+
 Which mobile models are sold the most?
+
 How do monthly sales trends change over time?
+
 Which cities contribute the highest sales?
+
 Which payment methods are preferred by customers?
+
 What is the average sales value per transaction?
+
 How do customer ratings vary across sales?
 
 - Dashboard Interaction <a href="https://github.com/Shilpi805/bluewave-mobile-sales-dashboard/blob/main/BLUEWAVE%20MOBLIE%20PROJECT%201.pbix">View Dashboard</a>
