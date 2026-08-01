@@ -19,11 +19,11 @@ Source: Sample Business Dataset (Excel)
 
 - Dashboard Interaction <a href="https://github.com/Shilpi805/bluewave-mobile-sales-dashboard/blob/main/BLUEWAVE%20MOBLIE%20PROJECT%201.pbix">View Dashboard</a>
 ## Tools & Technologies
-Power BI
--Microsoft Excel
--Power Query
--DAX (Data Analysis Expressions)
--Data Visualization
+- Power BI
+- Microsoft Excel
+- Power Query
+- DAX (Data Analysis Expressions)
+- Data Visualization
 ## Project Workflow
 -Imported and cleaned the raw dataset using Power Query.
 -Removed duplicate and inconsistent records.
