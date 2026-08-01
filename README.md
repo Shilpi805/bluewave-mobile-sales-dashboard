@@ -4,9 +4,9 @@ The objective of this project is to develop an interactive Power BI dashboard th
 ## Dataset Used
 Dataset Type: Mobile Sales Dataset
 <a href="https://github.com/Shilpi805/bluewave-mobile-sales-dashboard/blob/main/Bluewave%20Mobile.xlsx">Dataset</a>
-Dataset Type: Mobile Sales Dataset
-Records: ~19,000+ Sales Transactions
-Source: Sample Business Dataset (Excel)
+- Dataset Type: Mobile Sales Dataset
+- Records: ~19,000+ Sales Transactions
+- Source: Sample Business Dataset (Excel)
 ## Business Questions Solved
 - What is the total sales revenue generated?
 - Which mobile brands perform the best?
