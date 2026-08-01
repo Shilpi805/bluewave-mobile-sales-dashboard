@@ -17,4 +17,21 @@ Which payment methods are preferred by customers?
 What is the average sales value per transaction?
 How do customer ratings vary across sales?
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/Shilpi805/bluewave-mobile-sales-dashboard/blob/main/BLUEWAVE%20MOBLIE%20PROJECT%201.pbix">View Dashboard</a>
+## Tools & Technologies
+Power BI
+Microsoft Excel
+Power Query
+DAX (Data Analysis Expressions)
+Data Visualization
+## Project Workflow
+Imported and cleaned the raw dataset using Power Query.
+Removed duplicate and inconsistent records.
+Performed data transformation and formatting.
+Created calculated measures using DAX.
+Designed KPI cards for Sales, Quantity, Transactions, and Average Sales.
+Added interactive slicers for Month, Brand, Mobile Model, Payment Method, and Customer Ratings.
+Built charts, maps, and visual reports to improve business insights.
+Published an interactive dashboard for data exploration.
+## Author
+Shilpi Mishra
